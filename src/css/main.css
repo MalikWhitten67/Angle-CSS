@@ -491,5 +491,6 @@ text-emphasis:initial;
 }
 
 .bg-fixed{
-    position:fixed relative;
+    position:fixed;
+    
 }
