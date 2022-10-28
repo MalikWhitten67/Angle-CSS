@@ -343,9 +343,20 @@ justify-content: space-evenly;
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,100;1,100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&family=Roboto+Condensed:wght@700&family=Signika+Negative:wght@400;700&family=Varela+Round&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
 .font-Montserrat{
     font-family: 'Montserrat', sans-serif;
+}
+
+.font-Raleway{
+    font-family: 'Raleway', sans-serif;
+}
+
+.font-negative-left-10{
+ margin-left:-10%;
+}
+.font-negative-left-20{
+ margin-left:-25%;
 }
 
 .font-roboto_thin{
