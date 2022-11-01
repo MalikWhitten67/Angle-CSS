@@ -1,9 +1,4 @@
-* {
-    box-sizing: border-box;
-    display:flex;
-    font-size:auto;
- 
-  }
+
 .bg-align-top{
  margin-top:0;
  top:0
