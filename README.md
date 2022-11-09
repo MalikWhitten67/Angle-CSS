@@ -1,2 +1,2 @@
-# bungie-css
-A responsive CSS Frame work based on high performance!
+# Ample CSS
+A responsive CSS Frame work - Built for feasability and custimizability
